@@ -1,0 +1,130 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "",
+        "name": "XyG"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1758542874682,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "03须弥-6-镔铁沙丘",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 4273.185546875,
+      "y": -520.45068359375
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "0.5",
+      "id": 2,
+      "move_mode": "fly",
+      "type": "target",
+      "x": 4305.4091796875,
+      "y": -662.53271484375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 3,
+      "move_mode": "jump",
+      "type": "target",
+      "x": 4305.65234375,
+      "y": -683.3232421875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 4301.0224609375,
+      "y": -773.94921875
+    },
+    {
+      "action": "up_down_grab_leaf",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 4296.2861328125,
+      "y": -776.53369140625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 6,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 4262.947265625,
+      "y": -810.65087890625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 4275.9765625,
+      "y": -812.08203125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 4264.875,
+      "y": -835.1669921875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 4275.47265625,
+      "y": -857.8447265625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 4276.5615234375,
+      "y": -877.6279296875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 11,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 4267.7255859375,
+      "y": -880.28564453125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 12,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 4279.4482421875,
+      "y": -887.52001953125
+    }
+  ]
+}

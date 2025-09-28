@@ -1,0 +1,139 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "",
+        "name": "XyG"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1758541639999,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "02璃月-3",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 1657.064453125,
+      "y": -283.93505859375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 1620.4716796875,
+      "y": -298.68212890625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 1606.4111328125,
+      "y": -312.33251953125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "钟离 s(0.2),e(hold)",
+      "id": 4,
+      "move_mode": "run",
+      "type": "path",
+      "x": 1526.9248046875,
+      "y": -284.40966796875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "run",
+      "type": "path",
+      "x": 1508.1279296875,
+      "y": -314.796875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "run",
+      "type": "path",
+      "x": 1504.677734375,
+      "y": -288.80810546875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 1506.5126953125,
+      "y": -291.4111328125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 1506.236328125,
+      "y": -278.052734375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 1494.931640625,
+      "y": -280.5595703125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 1490.1591796875,
+      "y": -280.8837890625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 11,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 1475.95703125,
+      "y": -274.65478515625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 12,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 1475.9609375,
+      "y": -277.4404296875
+    },
+    {
+      "action": "pick_around",
+      "action_params": "",
+      "id": 13,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 1475.328125,
+      "y": -275.22265625
+    }
+  ]
+}

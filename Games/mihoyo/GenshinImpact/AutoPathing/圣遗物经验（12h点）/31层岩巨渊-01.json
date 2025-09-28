@@ -1,0 +1,130 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "",
+        "name": "XyG"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1758351255183,
+    "map_match_method": "",
+    "map_name": "TheChasm",
+    "name": "01层岩巨渊-1",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 895.860595703125,
+      "y": 1021.088134765625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 900.0625,
+      "y": 1035.625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 664.055419921875,
+      "y": 1058.9947509765625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "钟离 keypress(SPACE),wait(2.5),keypress(SPACE)",
+      "id": 4,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 581.78759765625,
+      "y": 1040.33154296875
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 567.505126953125,
+      "y": 1038.252685546875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 582.510009765625,
+      "y": 1041.387451171875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 585.25,
+      "y": 1043.625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "钟离 s(0.2),e(hold)",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 534.89794921875,
+      "y": 1026.270751953125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 533.1043701171875,
+      "y": 1026.12890625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "钟离 s(0.2),e(hold)",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 500.02978515625,
+      "y": 1023.358642578125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 11,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 491.7235107421875,
+      "y": 1024.283447265625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 12,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 491.4261474609375,
+      "y": 1020.219482421875
+    }
+  ]
+}

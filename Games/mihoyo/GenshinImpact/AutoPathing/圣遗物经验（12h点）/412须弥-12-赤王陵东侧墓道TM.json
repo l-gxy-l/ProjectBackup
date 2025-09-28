@@ -1,0 +1,435 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "",
+        "name": "XyG"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1758543779014,
+    "map_match_method": "TemplateMatch",
+    "map_name": "Teyvat",
+    "name": "06须弥-12-赤王陵东侧墓道",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "",
+      "action_params": "",
+      "id": 1,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 5168.98046875,
+      "y": -2350.798828125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "locked": false,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "pathTooFar"
+          ]
+        },
+        "monster_tag": ""
+      },
+      "type": "path",
+      "x": 5099.12109375,
+      "y": -2350.814453125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5099.0400390625,
+      "y": -2286.0078125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5079.50390625,
+      "y": -2285.923828125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5079.115234375,
+      "y": -2316.3828125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 6,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5068.2451171875,
+      "y": -2316.59375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 7,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5065.994140625,
+      "y": -2328.3984375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 8,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5092.91015625,
+      "y": -2323.8251953125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 5168.98046875,
+      "y": -2350.798828125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 10,
+      "locked": false,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "pathTooFar"
+          ]
+        },
+        "monster_tag": ""
+      },
+      "type": "path",
+      "x": 5099.12109375,
+      "y": -2350.814453125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 11,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5099.1005859375,
+      "y": -2415.828125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 12,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5079.2177734375,
+      "y": -2415.4326171875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 13,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5079.2802734375,
+      "y": -2383.6201171875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 14,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5091.662109375,
+      "y": -2381.05859375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 15,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5067.181640625,
+      "y": -2380.8125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 16,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5092.015625,
+      "y": -2371.8837890625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 17,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5066.677734375,
+      "y": -2371.2265625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 18,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 5168.98046875,
+      "y": -2350.798828125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 19,
+      "locked": false,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "pathTooFar"
+          ]
+        },
+        "monster_tag": ""
+      },
+      "type": "path",
+      "x": 5099.12109375,
+      "y": -2350.814453125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 20,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5069.974609375,
+      "y": -2350.4013671875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 21,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5061.677734375,
+      "y": -2363.625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 22,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5049.3095703125,
+      "y": -2367.24609375
+    },
+    {
+      "action": "fight",
+      "action_params": "",
+      "id": 23,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5049.703125,
+      "y": -2405.15234375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 24,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5055.9375,
+      "y": -2413.806640625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 25,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5041.853515625,
+      "y": -2410.7060546875
+    },
+    {
+      "action": "pick_around",
+      "action_params": "",
+      "id": 26,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5049.70703125,
+      "y": -2405.2783203125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 27,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5042.087890625,
+      "y": -2401.0791015625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 28,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5049.9296875,
+      "y": -2400.62109375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 29,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5049.3203125,
+      "y": -2367.9892578125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 30,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5054.017578125,
+      "y": -2350.6796875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 31,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5049.201171875,
+      "y": -2333.859375
+    },
+    {
+      "action": "fight",
+      "action_params": "",
+      "id": 32,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5049.611328125,
+      "y": -2299.705078125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 33,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5036.5537109375,
+      "y": -2305.6435546875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 34,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5061.89453125,
+      "y": -2305.9765625
+    },
+    {
+      "action": "pick_around",
+      "action_params": "",
+      "id": 35,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 5049.615234375,
+      "y": -2299.595703125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 36,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5037.46875,
+      "y": -2295.869140625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 37,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5061.9072265625,
+      "y": -2295.662109375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 38,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 5060.078125,
+      "y": -2299.8828125
+    }
+  ]
+}
