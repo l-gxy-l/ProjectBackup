@@ -1,0 +1,472 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "",
+        "name": "XyG"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1757848060701,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "06呼呼丘-彩彩崖",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 14113.7236328125,
+      "y": 766.72119140625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 14098.1767578125,
+      "y": 777.1181640625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 14079.212890625,
+      "y": 777.12255859375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 14034.2861328125,
+      "y": 815.71435546875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 14019.3876953125,
+      "y": 821.2509765625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 14013.5751953125,
+      "y": 816.22119140625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 14016.498046875,
+      "y": 820.7373046875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13996.6748046875,
+      "y": 823.88037109375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13980.916015625,
+      "y": 812.93994140625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13954.9296875,
+      "y": 748.7060546875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 11,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13931.1669921875,
+      "y": 770.44140625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 12,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13924.798828125,
+      "y": 772.712890625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 13,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13921.8447265625,
+      "y": 764.814453125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 14,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13919.3115234375,
+      "y": 763.1669921875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 15,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13908.4736328125,
+      "y": 749.77734375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 16,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13909.806640625,
+      "y": 764.2197265625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 17,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13908.5556640625,
+      "y": 769.5068359375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 18,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13965.3212890625,
+      "y": 694.23974609375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 19,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13983.34765625,
+      "y": 693.712890625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 20,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13979.34765625,
+      "y": 700.9951171875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(2)",
+      "id": 21,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13985.9970703125,
+      "y": 703.71533203125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 22,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 13945.75,
+      "y": 663.9248046875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 23,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13925.91015625,
+      "y": 657.6357421875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 24,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13918.7900390625,
+      "y": 663.388671875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 25,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13921.859375,
+      "y": 645.82275390625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 26,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13922.078125,
+      "y": 637.51416015625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 27,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13919.00390625,
+      "y": 622.71240234375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 28,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13904.11328125,
+      "y": 614.08544921875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 29,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13858.6005859375,
+      "y": 652.9482421875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 30,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13810.4541015625,
+      "y": 703.42724609375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 31,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13784.166015625,
+      "y": 729.23046875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 32,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13765.6005859375,
+      "y": 745.8095703125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 33,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13787.455078125,
+      "y": 749.29443359375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 34,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13780.8046875,
+      "y": 768.482421875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 35,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13786.97265625,
+      "y": 748.6298828125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 36,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13775.408203125,
+      "y": 753.64453125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 37,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13769.234375,
+      "y": 754.7802734375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 38,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13773.271484375,
+      "y": 756.12744140625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 39,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 13728.337890625,
+      "y": 838.4345703125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 40,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13717.9248046875,
+      "y": 854.5634765625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 41,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13732.001953125,
+      "y": 868.3544921875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 42,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13718.48828125,
+      "y": 882.5400390625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 43,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13721.4501953125,
+      "y": 884.92333984375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 44,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13717.2373046875,
+      "y": 900.037109375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 45,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13729.642578125,
+      "y": 897.16552734375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 46,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13737.6708984375,
+      "y": 897.5966796875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 47,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13737.9013671875,
+      "y": 884.8330078125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 48,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13734.83984375,
+      "y": 885.330078125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 49,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13726.7255859375,
+      "y": 869.68017578125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 50,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13726.0869140625,
+      "y": 867.376953125
+    }
+  ]
+}

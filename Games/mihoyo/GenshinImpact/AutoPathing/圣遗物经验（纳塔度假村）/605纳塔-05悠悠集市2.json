@@ -1,0 +1,94 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "",
+        "name": "XyG"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1757842929864,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "05悠悠集市2",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 13979.1865234375,
+      "y": 470.83056640625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 14022.498046875,
+      "y": 474.14892578125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 14006.484375,
+      "y": 486.71826171875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13987.7568359375,
+      "y": 490.76513671875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13980.962890625,
+      "y": 484.7216796875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13971.474609375,
+      "y": 501.40283203125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 13974.8134765625,
+      "y": 509.1962890625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 13975.40234375,
+      "y": 515.4853515625
+    }
+  ]
+}

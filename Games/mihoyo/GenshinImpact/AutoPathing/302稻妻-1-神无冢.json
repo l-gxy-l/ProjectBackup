@@ -1,0 +1,139 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "",
+        "name": "XyG"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1758544034003,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "02稻妻-1-神无冢",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": -3392.859375,
+      "y": -3555.70703125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -3390.62890625,
+      "y": -3552.1767578125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "target",
+      "x": -3397.1561471193418,
+      "y": -3547.125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "target",
+      "x": -3403.999819958848,
+      "y": -3543.1875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "target",
+      "x": -3405.499871399177,
+      "y": -3534.1875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "fly",
+      "type": "path",
+      "x": -3430.3046875,
+      "y": -3539.291015625
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "fly",
+      "type": "path",
+      "x": -3449.753806584362,
+      "y": -3552.625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "钟离 e(hold),wait(0.5)",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "target",
+      "x": -3445.630859375,
+      "y": -3553.412109375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "run",
+      "type": "path",
+      "x": -3441.05078125,
+      "y": -3552.486328125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(0.5)",
+      "id": 10,
+      "move_mode": "run",
+      "type": "target",
+      "x": -3435.548828125,
+      "y": -3566.45703125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 11,
+      "move_mode": "dash",
+      "type": "path",
+      "x": -3448.140625,
+      "y": -3564.732421875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "钟离 e(hold)",
+      "id": 12,
+      "move_mode": "run",
+      "type": "path",
+      "x": -3436.3743312757215,
+      "y": -3580.96875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 13,
+      "move_mode": "dash",
+      "type": "target",
+      "x": -3420.031069958848,
+      "y": -3574.1875
+    }
+  ]
+}
