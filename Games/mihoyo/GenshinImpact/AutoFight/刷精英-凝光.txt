@@ -1,0 +1,28 @@
+// 作者: G_yX
+// 描述:站桩输出。
+
+钟离 attack,keydown(d),wait(0.3),keyup(d),keydown(e),wait(1.2),keyup(e),wait(0.4),keypress(q),wait(0.1),keypress(q)
+班尼特 e
+砂糖 e
+凝光 attack,wait(0.2),keypress(e)
+砂糖 e
+班尼特 e
+凝光 attack,wait(0.2),keypress(e),wait(0.5),charge
+
+钟离 attack,keydown(d),wait(0.3),keyup(d),wait(0.4),keydown(e),wait(1.2),keyup(e),wait(0.1),keypress(q)
+班尼特 attack,wait(0.2),keypress(q),wait(0.4),keypress(e)
+砂糖 attack,keypress(q)
+钟离 attack,keydown(d),wait(0.3),keyup(d),keydown(e),wait(1.2),keyup(e),wait(0.4),keypress(q),wait(0.1),keypress(q)
+凝光 attack,wait(0.2),keypress(e),attack,wait(0.4),keypress(q),wait(0.3),charge
+
+钟离 attack,keydown(d),wait(0.3),keyup(d),wait(0.4),keydown(e),wait(1.2),keyup(e)
+班尼特 e
+砂糖 e
+凝光 attack,wait(0.2),keypress(e),attack,keypress(q),wait(0.2),charge,keypress(e),wait(0.2),attack(0.3),wait(0.2),charge
+班尼特 e
+砂糖 e
+
+
+
+
+
