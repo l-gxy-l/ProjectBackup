@@ -1,1 +1,1 @@
-
+weapon modification来自N网mogudu520，根据需要我自己又调整了一些射程并适配了新dlc
